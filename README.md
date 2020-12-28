@@ -15,6 +15,9 @@ I am using Deep Learning's Resnet50 model architecture in this project.The final
 
 Below graphs show the training and validation accuracy and loss
 
+![image](https://user-images.githubusercontent.com/55452866/103194942-305e0980-4907-11eb-823a-2c72b1aaa712.png)
+
+
 
 
 
